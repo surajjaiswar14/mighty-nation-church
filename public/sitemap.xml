@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mightynationchurch.org/</loc>
+    <loc>https://mighty-nation-church.vercel.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/about</loc>
+    <loc>https://mighty-nation-church.vercel.app/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/history</loc>
+    <loc>https://mighty-nation-church.vercel.app/history</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/leadership</loc>
+    <loc>https://mighty-nation-church.vercel.app/leadership</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/ministries</loc>
+    <loc>https://mighty-nation-church.vercel.app/ministries</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/services</loc>
+    <loc>https://mighty-nation-church.vercel.app/services</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/online-prayer</loc>
+    <loc>https://mighty-nation-church.vercel.app/online-prayer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/prayer-request</loc>
+    <loc>https://mighty-nation-church.vercel.app/prayer-request</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/gallery</loc>
+    <loc>https://mighty-nation-church.vercel.app/gallery</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/events</loc>
+    <loc>https://mighty-nation-church.vercel.app/events</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mightynationchurch.org/contact</loc>
+    <loc>https://mighty-nation-church.vercel.app/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
